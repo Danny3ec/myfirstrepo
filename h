@@ -9,7 +9,7 @@ Date:   Wed Oct 2 22:37:37 2024 +0100
 Author: Danny3ec <do4771b@gre.ac.uk>
 Date:   Wed Oct 2 22:07:48 2024 +0100
 
-    mod: modify to ijclude namespace andn colour
+    mod: modify to include namespace and colour
 
 [33mcommit b30011dcdfa81ec5d291e5814c80ab467c614f8c[m[33m ([m[1;31morigin/main[m[33m)[m
 Merge: a22b423 03a79a7
